@@ -1,0 +1,26 @@
+{
+  "name": "oyster",
+  "version": "0.0.0",
+  "description": "TFL Oyster Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "oyster",
+    "tfl",
+    "transport",
+    "london",
+    "tube",
+    "train",
+    "bus"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "~2.27.0",
+    "cheerio": "~0.12.2"
+  }
+}
