@@ -20,7 +20,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "request": "~2.27.0",
+    "request": "~2.29.0",
     "cheerio": "~0.12.2"
   }
 }
