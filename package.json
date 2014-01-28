@@ -1,6 +1,6 @@
 {
   "name": "oyster",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TFL Oyster Scraper",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,18 @@
     "bus"
   ],
   "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "contributors": [
+    {
+      "name": "Ben Evans",
+      "email": "ben@bensbit.co.uk",
+      "url": "http://bensbit.co.uk"
+    },
+    {
+      "name": "Charlie Dowler",
+      "email": "charliedowler15@gmail.com",
+      "url": "https://github.com/charliedowler"
+    }
+  ],
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
