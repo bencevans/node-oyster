@@ -32,7 +32,8 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
+    "cheerio": "~0.12.2",
     "request": "~2.29.0",
-    "cheerio": "~0.12.2"
+    "zombie": "^2.5.1"
   }
 }
