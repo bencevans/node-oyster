@@ -4,7 +4,7 @@
   "description": "TFL Oyster Scraper",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": "",
   "keywords": [
@@ -33,5 +33,8 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "request": "2.51.0"
+  },
+  "devDependencies": {
+    "standard": "^3.5.0"
   }
 }
