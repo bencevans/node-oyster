@@ -1,1 +1,1 @@
-module.exports = require('./lib/oyster');
+module.exports = require('./lib/oyster')
