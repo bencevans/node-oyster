@@ -1,5 +1,7 @@
 # node-oyster
 
+**Module defunct as the Oyster site has now been replaced by https://contactless.tfl.gov.uk/**
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 ## Install
